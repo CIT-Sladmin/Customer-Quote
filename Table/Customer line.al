@@ -7,7 +7,8 @@ table 90101 "Customer Line"
     {
         field(1; "Document Type"; Enum "Sales Document Type")
         {
-            Caption = 'Document Type';
+            Caption = 'Document';
+
         }
         field(2; "Sell-to Customer No."; Code[20])
         {
