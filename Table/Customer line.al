@@ -12,7 +12,7 @@ table 90101 "Customer Line"
         }
         field(2; "Sell-to Customer No."; Code[20])
         {
-            Caption = 'Sell-to Customer No.';
+            Caption = 'Customer No.';
 
         }
         field(3; "Document No."; Code[20])
